@@ -22,4 +22,4 @@ The table below gives an overview of the classes (and their definitions) within 
 | P1  | - | cv:legalEntityStatus & cv:legalStatusDate | Introduction legalEntityStatus and legalStatusDate properties to provide the legal status of the entity on a given date|[#45](https://github.com/SEMICeu/Core-Business-Vocabulary/issues/45) |
 | P2  | skos:prefLabel | rdfs:label | Provide ability to assign human readable labels to class instances and align approach to SEMIC Style Guide. | [#57](https://github.com/SEMICeu/CCCEV/issues/57) |
 | -  | - | - | Editorial changes have been applied to the specification to fix typo's. | [#42](https://github.com/SEMICeu/Core-Location-Vocabulary/issues/42) |
-
+| C2  | - |adms:IdentifierScheme | Alignment with Uncecfact Transparency Protocol | [#50](https://github.com/SEMICeu/Core-Business-Vocabulary/issues/50) |
